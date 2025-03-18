@@ -5,5 +5,6 @@ Analyze the impact of pricing on sales and customer reviews.
 Discover seasonal sales trends and patterns.
 Evaluate customer satisfaction based on review scores and counts.
 
-## Dataset used
+## Original Dataset link
 -  <a href= "https://github.com/PRAGATI51115/Datasets.git">Ecommerce Sales Analysis</a>
+
