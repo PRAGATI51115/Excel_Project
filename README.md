@@ -20,3 +20,6 @@ Evaluate customer satisfaction based on review scores and counts.
 
 ## Dashboard
 <img width="946" alt="Dashboard" src="https://github.com/user-attachments/assets/b92e69b3-ca8b-44fb-a4c1-e000fe6b7955" />
+
+## Conclusion
+This project showcases the use of Excel to analyze and visualize e-commerce data effectively. The insights derived can help in making informed business decisions.
