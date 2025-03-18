@@ -9,5 +9,5 @@ Evaluate customer satisfaction based on review scores and counts.
 -  <a href= "https://github.com/PRAGATI51115/Datasets.git">Ecommerce Sales Analysis</a>
 ## Dataset link
 -  <a href= "https://github.com/PRAGATI51115/Excel_Project/blob/main/Ecommerce%20Sales%20Analysis%20(Recovered).xlsx"> Working Sheet</a>
-## Dashboard link
--  <a href= "https://github.com/PRAGATI51115/Datasets.git">Ecommerce Sales Analysis</a>
+## Dashboard Interaction
+-  <a href= "https://github.com/PRAGATI51115/Excel_Project/blob/main/Dashboard.PNG"> View Dashboard</a>
